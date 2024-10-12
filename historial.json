@@ -1,0 +1,9 @@
+[
+  {
+    "monedaOrigen": "ARS",
+    "cantidad": 500000.0,
+    "monedaDestino": "USD",
+    "tasa": "0,001021",
+    "resultado": "510,5"
+  }
+]
