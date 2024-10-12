@@ -94,8 +94,11 @@ El menú incluirá las siguientes monedas para convertir:
 - **Un ejemplo de respuesta**:
 
   Selecciona una opción: 2
+  
   Ingresa la cantidad de Pesos argentinos: 500000
+  
   500000,00 Pesos argentinos son 510,50 Dólares.
+  
   Historial de búsquedas guardado exitosamente.
 
 
