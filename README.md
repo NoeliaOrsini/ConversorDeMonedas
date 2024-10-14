@@ -32,11 +32,11 @@ El proyecto tiene un package "com.alura.conversordemonedas" que tiene las siguie
 ### Dependencias
 
 Asegúrate de tener la siguiente librería en tu proyecto:
-- Gson 2.11.0 o superior
+- Gson 2.10.1 o superior
 
 ## Requisitos
 
-- JDK versión 11 o superior.
+- JDK versión 17 o superior.
 - IDE (Recomendado: IntelliJ IDEA).
 - Configuración de la variable de entorno para la API_KEY.
 
