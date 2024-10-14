@@ -72,18 +72,7 @@ El programa presenta un menú al usuario con las siguientes opciones:
 El menú incluirá las siguientes monedas para convertir:
 
 
-                ** Escribe el número de la opción deseada de moneda a convertir: **
-                1 - Dólar => Pesos argentinos
-                2 - Pesos argentinos => Dólar
-                3 - Dólar => Real brasileño
-                4 - Real brasileño => Dólar
-                5 - Dólar => Peso colombiano
-                6 - Peso colombiano => Dólar
-                7 - Dólar => Peso chileno
-                8 - Peso chileno => Dólar
-                9 - Dólar => Boliviano
-                10 - Boliviano => Dólar
-                11 - Salir
+![menu de inicio](https://github.com/user-attachments/assets/d56bc1ce-3ce1-4f5c-8c82-1417f252ed5f)
 
 
 ### Proceso de Conversión
