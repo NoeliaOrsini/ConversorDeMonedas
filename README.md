@@ -1,7 +1,7 @@
 # Conversor de Monedas
 
 Este proyecto es un conversor de monedas que utiliza la API ExchangeRate para obtener tasas de cambio actualizadas.
-Está diseñado como parte del desafío de la especialización en Back-End de Alura Latam.
+Está diseñado como  primer desafío de la especialización Back-End de Alura Latam.
 
 ## Estructura del Proyecto
 
@@ -32,7 +32,7 @@ El proyecto tiene un package "com.alura.conversordemonedas" que tiene las siguie
 ### Dependencias
 
 Asegúrate de tener la siguiente librería en tu proyecto:
-- Gson 2.11.0
+- Gson 2.11.0 o superior
 
 ## Requisitos
 
@@ -93,26 +93,22 @@ El menú incluirá las siguientes monedas para convertir:
 
 - **Un ejemplo de respuesta**:
 
-  Selecciona una opción: 2
   
-  Ingresa la cantidad de Pesos argentinos: 500000
-  
-  500000,00 Pesos argentinos son 510,50 Dólares.
-  
-  Historial de búsquedas guardado exitosamente.
+![buqueda](https://github.com/user-attachments/assets/856ed3bf-db89-4b59-933a-a4cf330af9c8)
 
+![contunia busqueda](https://github.com/user-attachments/assets/25cde786-8918-4860-bfe6-e570a2cc27ce)
 
-- Todas las búsquedas realizadas se guardarán en un archivo `historial.json`.
+- Al elegir la opción 11, el sistema sale y da un mensaje de despedida, como se ve en el ejemplo anterior.
+  Además, genera el historial de consultas (archivo .json).
+
+-  Asimismo, al iniciar una nueva consulta/s,  este historial se borra y muestra un nuevo  listado con todas las consultas efectuadas.
+  
+- Todas las búsquedas realizadas se guardarán en el archivo `historial.json`.
 
 ### Ejemplo de historial 
-[
-{
-"monedaOrigen": "ARS",
-"cantidad": 500000.0,
-"monedaDestino": "USD",
-"tasa": "0,001021",
-"resultado": "510,5"
-}
-]
+
+![resultodos](https://github.com/user-attachments/assets/a26c5297-0cfe-4f8d-92ad-d99cf863097b)
+
+Espero que lo pruebes! 
 
 **Realizado por Noelia Orsini para Alura Latam**
