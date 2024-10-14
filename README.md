@@ -58,7 +58,7 @@ y coloca tu clave de API dentro de ella.
 
 4. ## Configura las dependencias:
 
-Asegúrate de tener la librería gson-2.11.0.jar en tu proyecto.
+Asegúrate de tener la librería gson-2.10.1.jar en tu proyecto.
 Agrega las dependencias necesarias en tu configuración de proyecto en IntelliJ IDEA.
 
 
